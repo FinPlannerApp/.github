@@ -1,7 +1,7 @@
 <div align="center">
   <h1>💸 FinPlanner</h1>
   <h3>Your Personal Finance, Architected for Clarity</h3>
-  <p>A full-stack personal finance SaaS built for speed, reliability, and scale.</p>
+  <p>An open-source full-stack personal finance SaaS built for speed, reliability, and scale.</p>
 
   <a href="https://finplanner.ska97homelab.uk"><strong>🌍 View Live Site</strong></a> · 
   <a href="https://github.com/SMARTSKA97"><strong>👨‍💻 Built by SKA97</strong></a>
@@ -10,11 +10,11 @@
 ---
 
 ## 📖 About the Project
-FinPlanner is a comprehensive financial dashboard designed to help users track, manage, and plan their personal finances. Built using a layered architecture approach, the application splits the client-side presentation from a robust, caching-optimized backend API.
+FinPlanner is a comprehensive financial dashboard designed to help users track, manage, and plan their personal finances. Built using a layered architecture approach, the application splits the client-side presentation from a robust, caching-optimised backend API.
 
 ## 🏗️ Repositories
 
-This organization houses the core components of the FinPlanner platform:
+This organisation houses the core components of the FinPlanner platform:
 
 | Repository | Description | Tech Highlight |
 | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ This organization houses the core components of the FinPlanner platform:
 
 ## 🛠️ System Architecture & Stack
 
-The platform is powered by a modern, multi-cloud and containerized infrastructure:
+The platform is powered by a modern, multi-cloud and containerised infrastructure:
 
 **Frontend Ecosystem**
 <p align="left">
@@ -48,5 +48,6 @@ The platform is powered by a modern, multi-cloud and containerized infrastructur
 ---
 
 <div align="center">
+  <a href="https://www.buymeacoffee.com/smartska97" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   <sub>Built with ☕ and code by <a href="https://github.com/SMARTSKA97">Subhrajit (SKA97)</a>.</sub>
 </div>
