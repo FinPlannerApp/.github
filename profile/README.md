@@ -48,6 +48,5 @@ The platform is powered by a modern, multi-cloud and containerised infrastructur
 ---
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/smartska97" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
   <sub>Built with ☕ and code by <a href="https://github.com/SMARTSKA97">Subhrajit (SKA97)</a>.</sub>
 </div>
